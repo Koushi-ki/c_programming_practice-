@@ -1,4 +1,3 @@
-# c_programming_practice-
 #include <stdio.h>
 
 int main()
